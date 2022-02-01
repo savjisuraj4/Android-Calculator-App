@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/drawable/button_bg_round.xml" value="0.26205128205128203" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout-v21/activity_main.xml" value="0.2" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout-v21/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout-v23/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/activity_currency.xml" value="0.25" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/activity_main2.xml" value="0.1793478260869565" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/activity_unit_converter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/fragment_unit_converter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/layout/scientific.xml" value="0.1793478260869565" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/menu/menu_example.xml" value="0.25" />
+        <entry key="..\:/Kotlin/Calculator3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
